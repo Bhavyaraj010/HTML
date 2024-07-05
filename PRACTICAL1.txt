@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head><style>
+table,th,td{
+border: 3px solid red;
+}</style>
+</head>
+<body>
+<table>
+<tr>
+<th>student_id</th>
+<th> name </th>
+<th> phone </th>
+<th> email </th>
+</tr>
+<tr>
+<td>1</td>
+<td>Bhavyarajsinh</td>
+<td>9898638845</td>
+<td>bhav67@gmail.com</td>
+</tr>
+<tr>
+<td>2</td>
+<td>mitul</td>
+<td>9897638847</td>
+<td>mitul116@gmail.com</td>
+</tr>
+<tr>
+<td>3</td>
+<td>parva</td>
+<td>7676899078</td>
+<td>parva23@gmail.com</td>
+</tr>
+</table>
+</body>
+</html>
